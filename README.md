@@ -1,1 +1,1 @@
-# process-mining-italian-hospital
+# Process Mining of an Italian hospital
