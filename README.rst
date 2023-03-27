@@ -95,7 +95,7 @@ Tools
 
 * WoPeD: software for modelling, simulating and analyzing processes described by workflow nets [1]_.
 * ProM Lite: extensible framework that supports a wide variety of process mining techniques in the form of plugins [2]_.
-* PM4PY: python library implementing a variety of process mining algorithms[3]_.
+* PM4PY: python library implementing a variety of process mining algorithms [3]_.
 * BIMP: business process simulator for BPMN [4]_.
 
 Sitography
