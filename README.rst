@@ -22,6 +22,7 @@ After the triage activity, the patient may undergo a blood sampling by a nurse i
 * laboratory test: This activity is at times carried out to verify the patient's condition
 * emergency service: This activity indicates the performance of other types of support given to the patient. To simplify the process analysis, all these other support types are grouped under a single activity type.
 * radiological Examination: Sometimes, it is necessary to carry out some medical imaging of different nature: 
+  
   * ANGIO: Angiography 
   * ECHO: Echocardiagram 
   * MRI: Magnetic Resonance Imagining 
@@ -88,7 +89,7 @@ The hospital is unsatisfied with the costs: there are certainly too many resourc
 
 Answers
 ++++++++++++++++++++
-The answers and adopted solutions are available in the report `Analysis of an italian ED <./analysis-of-an-Italian-ED.pdf>`_. Moreover, you can find the code written for analysis in the following colab: `https://colab.research.google.com/drive/1RsszOawY-SAbywpFEiGkebFcGx_NAZ2y?usp=sharing <https://colab.research.google.com/drive/1RsszOawY-SAbywpFEiGkebFcGx_NAZ2y?usp=sharing>`_
+The answers and adopted solutions are available at the report `Analysis of an italian ED <./analysis-of-an-Italian-ED.pdf>`_. Moreover, you can find the code written for analysis at the following colab: `https://colab.research.google.com/drive/1RsszOawY-SAbywpFEiGkebFcGx_NAZ2y?usp=sharing <https://colab.research.google.com/drive/1RsszOawY-SAbywpFEiGkebFcGx_NAZ2y?usp=sharing>`_
 
 Tools
 +++++
@@ -100,7 +101,7 @@ Tools
 
 Sitography
 ++++++++++
-.. [1] `https://woped.dhbw-karlsruhe.de <https://woped.dhbw-karlsruhe.de>`_
-.. [2] `https://promtools.org <https://promtools.org/>`_
-.. [3] `https://pm4py.fit.fraunhofer.de <https://pm4py.fit.fraunhofer.de/>`_
-.. [4] `https://bimp.cs.ut.ee/ <https://bimp.cs.ut.ee/>`_
+.. [1] `WoPeD https://woped.dhbw-karlsruhe.de <https://woped.dhbw-karlsruhe.de>`_
+.. [2] `ProM Lite https://promtools.org <https://promtools.org/>`_
+.. [3] `PM4PY https://pm4py.fit.fraunhofer.de <https://pm4py.fit.fraunhofer.de/>`_
+.. [4] `BIMP https://bimp.cs.ut.ee/ <https://bimp.cs.ut.ee/>`_
