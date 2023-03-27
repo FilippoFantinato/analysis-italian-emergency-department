@@ -86,9 +86,9 @@ Question 3
 ----------
 The hospital is unsatisfied with the costs: there are certainly too many resources at the ED. Use Process Simulation to reduce the number of resources while keeping similar case duration. First, build a simulation model in BIMP that defines case arrival rate, resource roles, task durations, branching probabilities. Then, work with different resources allocated per role and reduce them in number while keeping similar case duration.
 
-Repository structure
+Answers
 ++++++++++++++++++++
-
+The answers and adopted solutions are available in the report `Analysis of an italian ED <./analysis-of-an-Italian-ED.pdf>`_. Moreover, you can find the code written for analysis in the following colab: `https://colab.research.google.com/drive/1RsszOawY-SAbywpFEiGkebFcGx_NAZ2y?usp=sharing <https://colab.research.google.com/drive/1RsszOawY-SAbywpFEiGkebFcGx_NAZ2y?usp=sharing>`_
 
 Tools
 +++++
