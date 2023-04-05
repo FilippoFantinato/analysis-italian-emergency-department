@@ -99,7 +99,7 @@ Tools
 * PM4PY: python library implementing a variety of process mining algorithms [3]_.
 * BIMP: business process simulator for BPMN [4]_.
 
-Sitography
+References
 ++++++++++
 .. [1] `WoPeD https://woped.dhbw-karlsruhe.de <https://woped.dhbw-karlsruhe.de>`_
 .. [2] `ProM Lite https://promtools.org <https://promtools.org/>`_
