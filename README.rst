@@ -89,7 +89,7 @@ The hospital is unsatisfied with the costs: there are certainly too many resourc
 
 Answers
 ++++++++++++++++++++
-The answers and adopted solutions are available at the report `Analysis of an italian ED <./analysis-of-an-Italian-ED.pdf>`_. Moreover, you can find the code written for analysis at the following colab: `https://colab.research.google.com/drive/1RsszOawY-SAbywpFEiGkebFcGx_NAZ2y?usp=sharing <https://colab.research.google.com/drive/1RsszOawY-SAbywpFEiGkebFcGx_NAZ2y?usp=sharing>`_
+The answers and adopted solutions are available at the report `Analysis of an italian ED <./analysis-of-an-Italian-Emergency-Department.pdf>`_. Moreover, you can find the code written for analysis at the following colab: `https://colab.research.google.com/drive/1RsszOawY-SAbywpFEiGkebFcGx_NAZ2y?usp=sharing <https://colab.research.google.com/drive/1RsszOawY-SAbywpFEiGkebFcGx_NAZ2y?usp=sharing>`_
 
 Tools
 +++++
